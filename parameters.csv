@@ -1,0 +1,9 @@
+# Adventure World Simulation Parameters
+# Format: parameter,value
+#
+# Park dimensions
+park_width,200
+park_height,200
+# Simulation settings
+max_timesteps,400
+initial_patrons,10

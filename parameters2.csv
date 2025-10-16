@@ -1,0 +1,9 @@
+# Adventure World Simulation Parameters - Extended Simulation
+# Format: parameter,value
+#
+# Larger park for extended configuration
+park_width,220
+park_height,220
+# Longer simulation with more patrons
+max_timesteps,600
+initial_patrons,15

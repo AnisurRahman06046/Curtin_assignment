@@ -1,0 +1,10 @@
+# Adventure World Map Configuration File - Extended Park
+# Format: ride_type,x,y,param1,param2,capacity,duration,name
+#
+# Extended Configuration - 6 rides for a busier park
+FerrisWheel,40,160,18,0,8,80,Sky Wheel
+FerrisWheel,160,160,18,0,8,80,Wonder Wheel
+RollerCoaster,100,170,20,55,6,60,Drop Tower
+BumperCars,40,50,35,30,8,70,Crash Arena
+BumperCars,160,50,35,30,8,70,Bump Zone
+PirateShip,100,40,28,0,10,50,Sea Storm

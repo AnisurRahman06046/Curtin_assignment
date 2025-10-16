@@ -1,0 +1,14 @@
+# Adventure World Map Configuration File
+# Format: ride_type,x,y,param1,param2,capacity,duration,name
+#
+# Ride types and their parameters:
+# - FerrisWheel: x, y, radius, 0, capacity, duration, name
+# - PirateShip: x, y, length, 0, capacity, duration, name
+# - BumperCars: x, y, width, height, capacity, duration, name
+# - RollerCoaster: x, y, width, height, capacity, duration, name
+#
+# Default Configuration - 4 rides in corners
+FerrisWheel,50,150,20,0,8,80,Ferris Wheel
+RollerCoaster,150,150,20,60,6,60,Tower Drop
+BumperCars,50,50,40,35,8,70,Bumper Cars
+PirateShip,150,50,30,0,10,50,Pirate Ship
