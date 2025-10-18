@@ -534,16 +534,8 @@ The Adventure World theme park simulation effectively demonstrates the practical
 6. ✅ Fully functional simulation engine executing accurate timestep progression.
 7. ✅ Real-time statistics visualized in subplot format, meeting postgraduate requirements.
 
-**Code Quality:**
-The code follows PEP-8 standards, avoids discouraged practices such as while True, break, continue, and global variables, and includes thorough documentation through docstrings. Its modular structure makes testing straightforward and future enhancements easier to implement.
 
-**Performance:**
-The simulation runs efficiently, completing 400–600 timesteps in roughly 30–45 seconds on standard hardware. Analysis shows consistent results across scenarios, with expected variations arising from stochastic elements.
-
-**Reflection:**
-This project reinforced foundational programming concepts like inheritance, polymorphism, encapsulation, and algorithmic thinking. Debugging initial issues with patron movement (where no rides were being taken) emphasized the importance of systematic testing and careful parameter adjustments.
-
-Overall, the simulation provides a realistic computational model of a theme park, showcasing how programming fundamentals can be applied to simulate and analyze complex real-world systems.
+Overall, the simulation shows a realistic computational model of a theme park, showcasing how programming fundamentals can be applied to simulate and analyze complex real-world systems.
 
 ---
 
